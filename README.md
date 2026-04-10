@@ -1,5 +1,7 @@
 ## Maturski ispit – Elektrotehničar računara
 
+<img src="https://readme-img.onrender.com/api/banner?username=MIhajloS07&template=banner2&bg=dark&font=inter" alt="MIhajloS07's GitHub Stats" />
+
 Ovaj repozitorijum sadrži moja rešenja zadataka sa maturskog ispita iz oblasti mikrokontrolera i mikroračunara, u okviru obrazovnog profila Elektrotehničar računara.
 
 ## Opis rada
